@@ -2,7 +2,7 @@
 
 
 
-![spaces_-MFVQnrLlCBowpNWJo1E_uploads_git-blob-35ab29e43032fa73e20aa5d368f8770023de93cf_derpydb-small (1) (5) (4) (1) (2) (5)](../../../../GitHub/FigureBed/spaces_-MFVQnrLlCBowpNWJo1E_uploads_git-blob-35ab29e43032fa73e20aa5d368f8770023de93cf_derpydb-small%20(1)%20(5)%20(4)%20(1)%20(2)%20(5).jpg)
+![ucbcs186icon_1](https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/13/20220513-152235.jpg)
 
 
 
