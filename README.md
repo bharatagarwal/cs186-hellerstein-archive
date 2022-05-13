@@ -2,7 +2,7 @@
 
 
 
-![ucbcs186icon_1](https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/13/20220513-152235.jpg)
+<div align=center><img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/13/20220513-152235.jpg"/></div>
 
 
 
