@@ -1,8 +1,8 @@
 # UCB CS186 : Introduction to Database Systems
 
+  
 
-
-<div align=center><img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/13/20220513-152235.jpg"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/13/20220513-152235.jpg"/></div>  
 
 
 
