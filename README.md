@@ -1,10 +1,10 @@
 # UCB CS186 : Introduction to Database Systems
 
-  
+<br>
 
 <div align=center><img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/05/13/20220513-152235.jpg"/></div>  
 
-
+<br>
 
 Slides, discussions, notes and project handouts for Berkeley's Database course CS186. 
 
