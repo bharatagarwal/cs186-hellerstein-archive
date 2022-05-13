@@ -10,7 +10,7 @@ Slides, discussions, notes and project handouts for Berkeley's Database course C
 
 I deleted the duplicate and blank slide pages and converted slides to pdf for convenience. There may be some labels I made on notes and slides as well.
 
-Project 1 implementations is **here**.
+Project 1 implementations is [here](https://github.com/Maizehsu/CS186-2022-Summer-Project-1).
 
 Version: *2022 Spring*.
 
